@@ -7,7 +7,7 @@
 ### What do I need to try it out?
  If you want to reproduce the Cringe with this, you will need:
 - A teaspoon of salt,
-- Java installed.
+- Java 11 installed.
 
 ### Are there going to be any updates?
  If I update this, I am adding features to a usless thing. That would be counterproductive.
