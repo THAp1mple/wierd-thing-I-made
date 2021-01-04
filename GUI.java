@@ -36,7 +36,7 @@ public class GUI extends JFrame implements ActionListener {
     
     Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
     
-    ImagePanel uslessPanel = new ImagePanel(new ImageIcon("daddy is gay.jpg").getImage());
+    ImagePanel uslessPanel = new ImagePanel(new ImageIcon("images/background.jpg").getImage());
 
     static JButton buttonPlusOne;
     static JButton buttonReset;
