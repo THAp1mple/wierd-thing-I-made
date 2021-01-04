@@ -1,4 +1,4 @@
-# wierd thing I made while having a Cofeine overdose
+# wierd thing I made
  So, this was an Idea from a friend, who said I could not programm a usless machine for him. It is fair to say - **I proved him wrong**.
 
 ### What does it do?
