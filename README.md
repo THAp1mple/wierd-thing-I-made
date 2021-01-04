@@ -5,7 +5,7 @@
  Nothing useful (Except adding 1 to a counter until you get bored - in which case you hit reset). Next!
 
 ### What do I need to try it out?
- If you want to because of the Cringe produced by this you need:
+ If you want to reproduce the Cringe with this, you will need:
 - A teaspoon of salt,
 - Java installed.
 
