@@ -2,7 +2,7 @@
  So, this was an Idea from a friend, who said I could not programm a usless machine for him. It is fair to say - **I proved him wrong**.
 
 ### What does it do?
- Nothing useful. Next!
+ Nothing useful (Except adding 1 to a counter until you get bored - in which case you hit reset). Next!
 
 ### What do I need to try it out?
  If you want to because of the Cringe produced by this you need:
