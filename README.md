@@ -6,8 +6,8 @@
 
 # What do I need to try it out?
  If you want to because of the Cringe produced by this you need:
--A teaspoon of salt,
--Java installed.
+- A teaspoon of salt,
+- Java installed.
 
 # Are there going to be any updates?
  If I update this, I am adding features to a usless thing. That would be counterproductive.
